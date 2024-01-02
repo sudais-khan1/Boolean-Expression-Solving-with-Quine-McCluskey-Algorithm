@@ -7,10 +7,10 @@ Welcome to the Boolean Expression Solver project! This C++ project is designed t
 ## Features
 
 1. **Minterm and Karnaugh Map (K-map) Entry:**
-   - Users can input minterms or K-maps to create boolean expressions.
+   - Users can input minterms (upto 8 variables) or K-maps to create boolean expressions.
 
 2. **Truth Table Generator:**
-   - The project allows users to generate truth tables based on the entered minterms or K-maps.
+   - The project allows users to generate truth tables for upto 14 variables based on the entered minterms or K-maps.
 
 3. **Quine-McCluskey Algorithm:**
    - The core of the project utilizes the Quine-McCluskey algorithm to simplify and solve boolean expressions.
